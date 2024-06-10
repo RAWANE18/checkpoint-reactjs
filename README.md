@@ -1,2 +1,8 @@
-# checkpoint-reactjs
-![checkpoint-reactjs](https://github.com/RAWANE18/checkpoint-reactjs/assets/133503500/f4742b5e-aa27-4680-8ee3-e0d5f1177ce0)
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
